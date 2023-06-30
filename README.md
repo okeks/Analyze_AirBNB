@@ -8,11 +8,11 @@
 
 #### Installation
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code editor used is  Juputer notebook on python 3.*
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code editor used is Juputer notebook on python 3.*
 
 #### Project Motivation
 
-For this project, I analyzed the 2016 AirBnB data for Seattle and Boston to better understand the following:
+For this project, I analyzed the AirBnB data for Seattle(2016) and Boston(2017) to better understand the following:
 
 What are the most common apartment types for both Seattle and Boston ?
 What Neighbourhoods have the Highest rates for lisings in both Cities ?
