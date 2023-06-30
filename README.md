@@ -29,7 +29,8 @@ There is 1 notebook that contains the code in this project. The notebook is expl
 Markdown cells were used to assist in walking through the thought process for individual steps.
 
 #### Results 
-The main findings insights from the code is made available here 
+The main findings insights from the code is made available here - [
+](https://medium.com/@okechukwuprincewillw/this-is-how-much-airbnbs-generates-in-seattle-and-boston-e834b677663)
 
 #### Licensing, Authors, Acknowledgements
 Much credit to Udacity for suggesting this project, credits to kaggle for providing this datasets.  You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
