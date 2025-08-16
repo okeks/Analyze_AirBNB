@@ -10,7 +10,7 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code editor used is Juputer notebook on python 3.*
 
-#### Project Motivation
+####📌Project Motivation
 
 For this project, I analyzed the AirBnB data for Seattle(2016) and Boston(2017) to better understand the following:
 
@@ -23,12 +23,12 @@ In predicting AirBNB price, what model perfoms better between a model built with
 This project counts towards my udacity data science Nanodegree certification.
 The full files for this project are available on kaggle.
 
-#### File Descriptions
+#### 📘 File Descriptions
 
 There is 1 notebook that contains the code in this project. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. 
 Markdown cells were used to assist in walking through the thought process for individual steps.
 
-#### Results 
+#### 📊 Results 
 The main findings insights from the code is made available here
 https://medium.com/@okechukwuprincewillw/this-is-how-much-airbnbs-generates-in-seattle-and-boston-e834b677663
 
