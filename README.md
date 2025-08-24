@@ -14,11 +14,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I analyzed the AirBnB data for Seattle(2016) and Boston(2017) to better understand the following:
 
-What are the most common apartment types for both Seattle and Boston ?
-What Neighbourhoods have the Highest rates for lisings in both Cities ?
-What months of the year had the most bookings for both cities?
-Top 10 Neighbourhoods with the highest grossing revenues made from bookings in 2016.
-In predicting AirBNB price, what model perfoms better between a model built with non-NaN data and model built with Imputed data.
+- What are the most common apartment types for both Seattle and Boston ?
+- What Neighbourhoods have the Highest rates for lisings in both Cities ?
+- What months of the year had the most bookings for both cities?
+- Top 10 Neighbourhoods with the highest grossing revenues made from bookings in 2016.
+- In predicting AirBNB price, what model perfoms better between a model built with non-NaN data and model built with Imputed data.
 
 This project counts towards my udacity data science Nanodegree certification.
 The full files for this project are available on kaggle.
